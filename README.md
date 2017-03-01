@@ -1,2 +1,2 @@
 # HelloWorld
-![Alt text](https://github.com/OnlyLP/HelloWorld/tree/master/pho/2.png)
+![Alt text](https://github.com/OnlyLP/HelloWorld/blob/master/pho/2.png)
